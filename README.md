@@ -1,5 +1,4 @@
 # Distributed-Privacy-Preserving-ML
-OpenFHE, C++
 This implementation provides an encrypted softmax computation that processes multiple elements simultaneously using CKKS homomorphic encryption. The softmax function is computed entirely on encrypted data without ever decrypting the inputs, ensuring complete privacy preservation.
 
 # Key Features
